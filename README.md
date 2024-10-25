@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a motivated recent graduate with an interest i
 - I'm repurposing an old laptop into an Ubuntu Server where I can set up up a self-hosted environment for personal projects using VPS and Docker containers.
 ---
 ## 🌱 Currently Learning
-- Understanding Git and GitHub, thanks to the (GitHub Introduction Courses)[https://github.com/fraserrbarclay/introduction-to-github]
-- Exploring Machine Learning and Database Management, and DevOps through (DataCamp)[https://www.datacamp.com]
+- Understanding Git and GitHub, thanks to the [GitHub Introduction Courses](https://github.com/fraserrbarclay/introduction-to-github)
+- Exploring Machine Learning and Database Management, and DevOps through [DataCamp](https://www.datacamp.com)
 ---
 ## 📫 Contact Me
 
