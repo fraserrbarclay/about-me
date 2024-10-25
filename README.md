@@ -8,7 +8,9 @@ Welcome to my GitHub profile! I'm a motivated recent graduate with an interest i
 
 
 - Current Role: Announcement coming soon...
+
 - Education: BSc (Hons) Physics from The Open University (2024)
+
 - Current Focus:
   - Experimenting with real world datasets and Python libraries for data analysis and visualization.
   - Building knowledge in Machine Learning, exploring key algorithms using Scikit-Learn.
