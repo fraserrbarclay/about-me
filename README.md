@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a motivated recent graduate with an interest i
 ## 🔍 About Me
 
 
-- Current Role: Announcement coming soon...
+- Current Role: Coming soon...
 
 - Education: BSc (Hons) Physics from The Open University (2024)
 
