@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About me</title>
-    <style>
+    <<style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -12,43 +12,32 @@
             margin: auto;
             padding: 20px;
             background-color: #f9f9f9;
-            position: relative;
         }
-        h1, h2, h3 {
-            color: #333;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .highlight {
-            font-weight: bold;
-            color: #007bff;
-        }
-        .section {
-            margin-bottom: 20px;
-            padding: 15px;
-            background: white;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .corner-image {
-        width: 80px; /* Adjust size */
-        height: auto;
-        border-radius: 50%;
-    }
-</style>
 
-<div class="header">
-    <h1>👋 Hi there, I'm Fraser!</h1>
-    <img src="https://avatars.githubusercontent.com/u/80067198?s=400&u=dd32e152b7b12fcd742196b5477897d1e889923f&v=4" alt="Profile Picture" class="corner-image">
-</div>
+        /* Header styling using Flexbox */
+        .header {
+            display: flex;
+            align-items: center; /* Ensures vertical alignment */
+            gap: 15px; /* Space between image and text */
+            padding-bottom: 10px;
+            border-bottom: 2px solid #ddd; /* Optional separator */
+        }
+
+        /* Logo styling */
+        .logo {
+            width: 80px; /* Adjust size */
+            height: auto;
+            border-radius: 50%; /* Optional for circular image */
+        }
+    </style>
 </head>
 <body>
 
+    <!-- Header section with image on the left and title beside it -->
+    <div class="header">
+        <img src="your-logo.jpg" alt="Profile Logo" class="logo">
+        <h1>👋 Hi there, I'm Fraser!</h1>
+    </div>
     <p><strong>🎓 BSc (Hons) Physics - First Class Honours | 🚀 Digital Professional | 💻 Open to New Opportunities</strong></p>
     
     <p>Welcome to my GitHub page! I'm a motivated recent graduate interested in data, software development, and cloud technologies. 
