@@ -1,38 +1,54 @@
 ## 👋 Hi there, I'm Fraser! 
 
-**🎓 Recent Graduate | 🚀 Aspiring Cloud & Data Professional | 💻 Open to New Opportunities**
+**🎓 BSc (Hons) Physics - First Class Honours  | 🚀 Digital Professional | 💻 Open to New Opportunities**
 
-Welcome to my GitHub profile! I'm a motivated recent graduate with an interest in data science, data engineering, and cloud technologies.
+Welcome to my GitHub profile! I'm a motivated recent graduate interested in data, software development, and cloud technologies. I enjoy working with real-world datasets and building applications. Currently, I'm learning Docker, self-hosted environments, and cloud deployment to improve automation and scalability.
 
 ## 🔍 About Me
 
-
-- Current Role: Coming soon...
-
-- Education: BSc (Hons) Physics from The Open University (2024)
-
 - Current Focus:
-  - Experimenting with real world datasets and Python libraries for data analysis and visualization.
-  - Building knowledge in Machine Learning, exploring key algorithms using Scikit-Learn.
-  - Developing skills in database design and optimization.
-  - Experimenting with Self-hosting solutions using Docker and VPS
+  - 📊 Data Science & Analytics
+    – Experimenting with real-world datasets, using Python libraries such as Pandas and Matplotlib for data analysis and visualization.
+  - 🛢️ Database Management
+    - Learning about database design, SQL optimization, and working with PostgreSQL and NoSQL databases.
+  - 🏗️ Cloud & DevOps
+    - Experimenting with self-hosting solutions using Docker, VPS, and cloud platforms.
+  - 🌐 Web Development
+    - Learning HTML, CSS, and JavaScript to build interactive web applications and understand frontend fundamentals.
  
 ---
-## 📂 Most Recent Project:
-#### 🌐 Self-Hosting Experiments
-- I'm repurposing an old laptop into an Ubuntu Server where I can set up up a self-hosted environment for personal projects using VPS and Docker containers.
----
+## 📂 Most Recent Project
+### 🎯 Skill Development Platform Implementation
+📌 Role: Implementation Coordinator
+
+📌 Tech Stack: Careers Services CMS, HTML, Internal Systems
+  - Adapted an existing skills development platform to align with an employability skills framework for university students.
+  - Designed and edited a custom site for students in an Access and Participation Plan (APP), improving navigation and ease of use.
+  - Coordinated between careers services staff, platform vendors, and students, relaying technical insights and feedback.
+  - Developed training resources (videos, internal documentation) to staff and students.
+  - Conducted thorough usability testing to refine the platform before launch.
+
+## 🌱 Ongoing Self-Led Projects
+### 📊 Data Visualization Dashboard
+- Exploring D3.js and JavaScript to create interactive charts using real-world datasets.
+- Experimenting with data storytelling techniques to present insights effectively.
+### 🌐 Self-Hosting Experiments
+- Repurposing an old laptop as an Ubuntu server to create a self-hosted development environment.
+- Using VPS, Docker containers, and Linux to manage and secure various personal projects.
+- Exploring networking, server management, and automation for efficient deployment.
 ## 🌱 Currently Learning
-- Understanding Git and GitHub, thanks to the [GitHub Introduction Courses](https://github.com/fraserrbarclay/introduction-to-github)
-- Exploring Machine Learning and Database Management, and DevOps through [DataCamp](https://www.datacamp.com)
----
+- 🖥️ Git & GitHub – Practicing version control with [GitHub Introduction Courses](https://github.com/fraserrbarclay/introduction-to-github).
+- 🤖 Machine Learning & Database Management – Expanding my knowledge through [DataCamp](https://www.datacamp.com)
+- 🌐 Web Development – Learning HTML, CSS, and JavaScript to build interactive web applications.
+- 🚀 DevOps & Cloud – Experimenting with Docker, VPS hosting, and automation tools to optimize deployment.
 ## 📫 Contact Me
+📧 Email: [fraserrbarclay@gmail.com](mailto:fraserrbarclay@gmail.com)
 
-- Send an email to [fraserrbarclay@gmail.com](mailto:fraserrbarclay@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/fraserrbarclay/)
 
-- Or connect on [LinkedIn](Linkedin.com/in/fraserrbarclay/)
+💬 Feel free to reach out for collaborations, project discussions, or just a chat!
 
-Feel free to reach out if you'd like to collaborate, or just have a chat!
+
 <!--
 **fraserrbarclay/fraserrbarclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
